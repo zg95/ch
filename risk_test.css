@@ -114,3 +114,11 @@ ul.select li{height:46px; line-height:1.5; margin:0 0 20px 0}
 .error-buttom.prompt:hover{ background-color: #FABC0D;}
 .error-buttom:hover{cursor:pointer;background-color: #DE5347;}
 
+@media (max-width: 375px){
+  .question{height: 85px;}
+  .card_wrap{width: 375px;}
+  .card{    width: 300px;}
+  .error{ width: 100%; top: 5%;height: 100%;}
+  .error-resolve .resolve{font-size: 18px}
+  ul.select li{height: 42px;    margin: 0 0 15px 0;}
+}
