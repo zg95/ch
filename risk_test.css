@@ -121,4 +121,5 @@ ul.select li{height:46px; line-height:1.5; margin:0 0 20px 0}
   .error{ width: 100%; top: 5%;height: 100%;}
   .error-resolve .resolve{font-size: 18px}
   ul.select li{height: 42px;    margin: 0 0 15px 0;}
+  .card .card_bottom{    bottom: 160px;}
 }
